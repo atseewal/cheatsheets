@@ -1,0 +1,15 @@
+{
+  "hash": "aa6df576a0b86a17538bbb3512be7546",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Positron :: Cheatsheet\"\ndescription: \" \"\nimage-alt: \"\"\nexecute:\n  eval: true\n  output: false\n  warning: false\n---\n\n<img src=\"images/logo-positron.png\" alt=\"Hex logo for Positron - Positron logo followed by the word Positron on a dark background with light blue dots.\" height=\"138\"/> <br><br><a href=\"../positron.pdf\">\n\n\n::: {.cell .column-margin}\n<a href=\"../positron.pdf\">\n<p><i class=\"bi bi-file-pdf\"></i> Download PDF</p>\n<img src=\"../pngs/positron.png\" width=\"200\" alt=\"\"/>\n</a>\n<br><br>\n:::\n\n\nWill be updated soon!\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
